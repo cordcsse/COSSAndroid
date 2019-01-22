@@ -1,4 +1,4 @@
-package com.ursca.gansaikhanshur.coss2019;
+package com.ursca.coss2019;
 
 import android.net.http.SslError;
 import android.support.v7.app.AppCompatActivity;
